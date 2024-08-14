@@ -7,3 +7,6 @@ TASK 1: SOLVING THE VULNERABILIES OF XSS LAB AT PORTSWIGGER
 ![Screenshot 2024-08-10 083632](https://github.com/user-attachments/assets/a711a688-61ac-4958-834b-b4c4cde290a7)
 3RD LAB
 ![Screenshot 2024-08-10 083353](https://github.com/user-attachments/assets/ac82d92e-76fe-4743-9be7-d44dccef9cd5)
+4TH LAB
+![Screenshot 2024-08-10 082936](https://github.com/user-attachments/assets/7f49bb2a-7252-4a5b-aba4-10d8a9cccd9e)
+
